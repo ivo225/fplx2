@@ -1,0 +1,6878 @@
+{
+  "timestamp": "2025-03-19T11:01:17.256706",
+  "gameweek": 30,
+  "predictions": {
+    "F\u00e1bio Vieira": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "G.Jesus": {
+      "predicted_points": 50.56056709289551,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 4,
+      "price": 0.65,
+      "selected_by_percent": 1.1
+    },
+    "Gabriel": {
+      "predicted_points": 142.13814442952474,
+      "sentiment_score": 1.0,
+      "form": 4.4,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.64,
+      "selected_by_percent": 30.4
+    },
+    "Havertz": {
+      "predicted_points": 116.2972974141439,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 4,
+      "price": 0.77,
+      "selected_by_percent": 6.0
+    },
+    "Hein": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "J.Timber": {
+      "predicted_points": 122.25388285319012,
+      "sentiment_score": 1.0,
+      "form": 5.6,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 4.9
+    },
+    "Jorginho": {
+      "predicted_points": 19.90815864139133,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.2
+    },
+    "Kiwior": {
+      "predicted_points": 14.851553535461427,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 0.2
+    },
+    "Martinelli": {
+      "predicted_points": 111.5109820895725,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.65,
+      "selected_by_percent": 2.0
+    },
+    "Nwaneri": {
+      "predicted_points": 56.893074501885316,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 4.3
+    },
+    "\u00d8degaard": {
+      "predicted_points": 91.15776977539063,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.82,
+      "selected_by_percent": 5.2
+    },
+    "Raya": {
+      "predicted_points": 141.43422860039607,
+      "sentiment_score": 1.0,
+      "form": 4.8,
+      "team": "Arsenal",
+      "position": 1,
+      "price": 0.55,
+      "selected_by_percent": 26.1
+    },
+    "Rice": {
+      "predicted_points": 110.43994081285265,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 2.9
+    },
+    "Saka": {
+      "predicted_points": 129.32819027370877,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 1.02,
+      "selected_by_percent": 8.5
+    },
+    "Saliba": {
+      "predicted_points": 138.23302442762588,
+      "sentiment_score": 1.0,
+      "form": 5.4,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.62,
+      "selected_by_percent": 22.6
+    },
+    "Thomas": {
+      "predicted_points": 6.7669593016306555,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.6
+    },
+    "Tierney": {
+      "predicted_points": 7.686627843644885,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.0
+    },
+    "Tomiyasu": {
+      "predicted_points": 1.2520570688777501,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Trossard": {
+      "predicted_points": 120.53691626654732,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.6799999999999999,
+      "selected_by_percent": 3.1
+    },
+    "White": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Zinchenko": {
+      "predicted_points": 21.846793895297584,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 0.9
+    },
+    "Neto": {
+      "predicted_points": 82.33526780870226,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.63,
+      "selected_by_percent": 2.2
+    },
+    "Sterling": {
+      "predicted_points": 19.91950772603353,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.67,
+      "selected_by_percent": 0.8
+    },
+    "Calafiori": {
+      "predicted_points": 44.217904875013566,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.58,
+      "selected_by_percent": 1.3
+    },
+    "Lewis-Skelly": {
+      "predicted_points": 28.687750922309032,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.3
+    },
+    "Merino": {
+      "predicted_points": 82.05103140936959,
+      "sentiment_score": 1.0,
+      "form": 5.8,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.6,
+      "selected_by_percent": 0.8
+    },
+    "Oulad M'hand": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Setford": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 1,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Kacurri": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Kabia": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Nichols": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Butler-Oyedeji": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Arteta": {
+      "predicted_points": 52.2703172047933,
+      "sentiment_score": 1.3,
+      "form": 5.6,
+      "team": "Arsenal",
+      "position": 5,
+      "price": 0.15,
+      "selected_by_percent": 3.5
+    },
+    "Porter": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Arsenal",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Bailey": {
+      "predicted_points": 53.433544921875,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 0.8
+    },
+    "Barkley": {
+      "predicted_points": 47.83776397705078,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 0.2
+    },
+    "Barrenechea": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Buendia": {
+      "predicted_points": 11.374462509155274,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.1
+    },
+    "Cash": {
+      "predicted_points": 47.86710205078125,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.9
+    },
+    "Dendoncker": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Diaby": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.65,
+      "selected_by_percent": 0.0
+    },
+    "Diego Carlos": {
+      "predicted_points": 24.449560546875,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.3
+    },
+    "Digne": {
+      "predicted_points": 89.31630249023438,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 6.3
+    },
+    "Dobbin": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Duran": {
+      "predicted_points": 64.69434356689453,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 4,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 1.7
+    },
+    "Gauci": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.6
+    },
+    "Hause": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.6
+    },
+    "Iling Jr": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "Kamara": {
+      "predicted_points": 35.105124664306636,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Kesler-Hayden": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Konsa": {
+      "predicted_points": 73.89586944580078,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 5.0
+    },
+    "Maatsen": {
+      "predicted_points": 29.63560638427734,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 1.2
+    },
+    "Marschall": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Martinez": {
+      "predicted_points": 79.86304151746963,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 2.4
+    },
+    "McGinn": {
+      "predicted_points": 63.2897964477539,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 0.6
+    },
+    "Mings": {
+      "predicted_points": 36.882206726074216,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Nedeljkovic": {
+      "predicted_points": 6.697864723205567,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.6
+    },
+    "Olsen": {
+      "predicted_points": 9.226322937011718,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Aston Villa",
+      "position": 1,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Pau": {
+      "predicted_points": 38.494248962402345,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.7
+    },
+    "Ramsey": {
+      "predicted_points": 59.22537689208984,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.4
+    },
+    "Rogers": {
+      "predicted_points": 135.27978515625,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 16.2
+    },
+    "Sinisalo": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Sousa": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Tielemans": {
+      "predicted_points": 101.13472595214843,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 1.2
+    },
+    "Watkins": {
+      "predicted_points": 176.9463684082031,
+      "sentiment_score": 1.0,
+      "form": 6.2,
+      "team": "Aston Villa",
+      "position": 4,
+      "price": 0.89,
+      "selected_by_percent": 18.1
+    },
+    "Disasi": {
+      "predicted_points": 38.25812530517578,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.5
+    },
+    "Onana": {
+      "predicted_points": 119.64256863064236,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Man Utd",
+      "position": 1,
+      "price": 0.5,
+      "selected_by_percent": 5.8
+    },
+    "Rashford": {
+      "predicted_points": 87.95585632324219,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.67,
+      "selected_by_percent": 4.8
+    },
+    "Bogarde": {
+      "predicted_points": 7.832941246032714,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.3
+    },
+    "Swinkels": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Zych": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.5
+    },
+    "Young": {
+      "predicted_points": 91.41774758232964,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.9
+    },
+    "Broggio": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Jimoh": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Malen": {
+      "predicted_points": 7.925042152404785,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.1
+    },
+    "A. Garcia": {
+      "predicted_points": 7.173657989501953,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Aston Villa",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Emery": {
+      "predicted_points": 47.13979797363281,
+      "sentiment_score": 1.0,
+      "form": 6.4,
+      "team": "Aston Villa",
+      "position": 5,
+      "price": 0.08,
+      "selected_by_percent": 1.5
+    },
+    "M.Asensio": {
+      "predicted_points": 22.51255874633789,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Aston Villa",
+      "position": 3,
+      "price": 0.61,
+      "selected_by_percent": 2.1
+    },
+    "Aarons": {
+      "predicted_points": 9.952148151397706,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Adams": {
+      "predicted_points": 50.72303479512533,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Anthony": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Brooks": {
+      "predicted_points": 52.969368150499136,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Christie": {
+      "predicted_points": 91.51542417738173,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.2
+    },
+    "Cook": {
+      "predicted_points": 81.96413803100587,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.2
+    },
+    "Enes \u00dcnal": {
+      "predicted_points": 38.60687861972385,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 4,
+      "price": 0.54,
+      "selected_by_percent": 0.1
+    },
+    "Faivre": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "H.Traor\u00e8": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Hill": {
+      "predicted_points": 21.290730328030058,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.6
+    },
+    "Jebbison": {
+      "predicted_points": 9.625952635871041,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Bournemouth",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 1.1
+    },
+    "Kerkez": {
+      "predicted_points": 125.78281292385526,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.52,
+      "selected_by_percent": 18.1
+    },
+    "Kluivert": {
+      "predicted_points": 178.76155971950956,
+      "sentiment_score": 1.0,
+      "form": 4.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 35.2
+    },
+    "Mepham": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "O.Dango": {
+      "predicted_points": 121.19501071506077,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 4.2
+    },
+    "Paulsen": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Philip": {
+      "predicted_points": 12.607214874691435,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Scott": {
+      "predicted_points": 17.244852108425565,
+      "sentiment_score": 1.1208333333333333,
+      "form": 0.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Semenyo": {
+      "predicted_points": 134.04147228664823,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 9.0
+    },
+    "Senesi": {
+      "predicted_points": 24.059990141126846,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.3
+    },
+    "Sinisterra": {
+      "predicted_points": 28.75639752282037,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "Smith": {
+      "predicted_points": 39.190387429131405,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Tavernier": {
+      "predicted_points": 87.85085025363499,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.4
+    },
+    "Travers": {
+      "predicted_points": 22.236527421739368,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 1,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Zabarnyi": {
+      "predicted_points": 79.80143169826933,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.5
+    },
+    "Arrizabalaga": {
+      "predicted_points": 87.37834209865994,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Bournemouth",
+      "position": 1,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 3.1
+    },
+    "Huijsen": {
+      "predicted_points": 85.83199293348525,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 4.7
+    },
+    "J.Araujo": {
+      "predicted_points": 9.474272108078004,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Dennis": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.2
+    },
+    "Evanilson": {
+      "predicted_points": 108.74427252875435,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Bournemouth",
+      "position": 4,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 3.2
+    },
+    "Kinsey": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Winterburn": {
+      "predicted_points": 2.440662174754673,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Harris": {
+      "predicted_points": 0.02477291754136483,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Rees-Dottin": {
+      "predicted_points": 1.2061493515968325,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Akinmboni": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Soler": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.0
+    },
+    "Adu-Adjei": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Sadi": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "McKenna": {
+      "predicted_points": 21.144587474399145,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Ipswich",
+      "position": 5,
+      "price": 0.05,
+      "selected_by_percent": 0.3
+    },
+    "Silcott-Duberry": {
+      "predicted_points": 1.2061493515968325,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Bournemouth",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Iraola": {
+      "predicted_points": 35.477141571044925,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Bournemouth",
+      "position": 5,
+      "price": 0.11000000000000001,
+      "selected_by_percent": 6.7
+    },
+    "Ajer": {
+      "predicted_points": 33.922034369574654,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Brierley": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Collins": {
+      "predicted_points": 107.94412587483724,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 3.0
+    },
+    "Damsgaard": {
+      "predicted_points": 127.07182752821181,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 1.9
+    },
+    "Dasilva": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Flekken": {
+      "predicted_points": 113.57001139322917,
+      "sentiment_score": 1.0,
+      "form": 5.2,
+      "team": "Brentford",
+      "position": 1,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 10.0
+    },
+    "Henry": {
+      "predicted_points": 1.140159785747528,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.0
+    },
+    "Hickey": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.0
+    },
+    "Janelt": {
+      "predicted_points": 79.69988759358723,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.2
+    },
+    "Jensen": {
+      "predicted_points": 32.23542832268609,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 0.1
+    },
+    "Ji-soo": {
+      "predicted_points": 3.808242236243354,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.3
+    },
+    "Konak": {
+      "predicted_points": 7.9506756146748865,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Lewis-Potter": {
+      "predicted_points": 86.44336446126303,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.1
+    },
+    "Mbeumo": {
+      "predicted_points": 209.8898627387153,
+      "sentiment_score": 1.0,
+      "form": 6.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.8099999999999999,
+      "selected_by_percent": 41.6
+    },
+    "Mee": {
+      "predicted_points": 10.673918872409397,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.3
+    },
+    "N\u00f8rgaard": {
+      "predicted_points": 85.18811170789931,
+      "sentiment_score": 1.0,
+      "form": 4.2,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.2
+    },
+    "Onyeka": {
+      "predicted_points": 2.3406944195429484,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Peart-Harris": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Pinnock": {
+      "predicted_points": 55.288521999782986,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.3
+    },
+    "Roerslev": {
+      "predicted_points": 42.813995107014975,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Schade": {
+      "predicted_points": 117.23405117458768,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 1.2
+    },
+    "Thiago": {
+      "predicted_points": 4.066213316387601,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 4,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 0.0
+    },
+    "Toney": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 4,
+      "price": 0.73,
+      "selected_by_percent": 1.1
+    },
+    "Valdimarsson": {
+      "predicted_points": 2.316416096687317,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 4.1
+    },
+    "Wissa": {
+      "predicted_points": 156.18787943522136,
+      "sentiment_score": 1.0,
+      "form": 5.8,
+      "team": "Brentford",
+      "position": 4,
+      "price": 0.65,
+      "selected_by_percent": 17.3
+    },
+    "Yarmoliuk": {
+      "predicted_points": 32.413253699408635,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 2.4
+    },
+    "Zanka": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Carvalho": {
+      "predicted_points": 42.79146338568793,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.4
+    },
+    "Van den Berg": {
+      "predicted_points": 45.026821306016714,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.41,
+      "selected_by_percent": 1.8
+    },
+    "Trevitt": {
+      "predicted_points": 1.140159785747528,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "G.Nunes": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Meghoma": {
+      "predicted_points": 1.140159785747528,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Yogane": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Maghoma": {
+      "predicted_points": 8.050167316860623,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Brentford",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Arthur": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Frank": {
+      "predicted_points": 48.309430270724825,
+      "sentiment_score": 1.0,
+      "form": 6.6,
+      "team": "Brentford",
+      "position": 5,
+      "price": 0.08,
+      "selected_by_percent": 0.9
+    },
+    "Kayode": {
+      "predicted_points": 4.824177445305718,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Eyestone": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Morgan": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Benjamin Fredrick": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brentford",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Adingra": {
+      "predicted_points": 46.755091730753584,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.3
+    },
+    "Baker-Boaitey": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Baleba": {
+      "predicted_points": 74.54633657667372,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.2
+    },
+    "Barco": {
+      "predicted_points": 0.005923259910196066,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 2.1
+    },
+    "Cozier-Duberry": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Dahoud": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Dunk": {
+      "predicted_points": 46.246944724188914,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 2.4
+    },
+    "Estupi\u00f1an": {
+      "predicted_points": 61.171848042806,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.9
+    },
+    "Gilmour": {
+      "predicted_points": 3.464896851115757,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Gross": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.65,
+      "selected_by_percent": 0.0
+    },
+    "Hinshelwood": {
+      "predicted_points": 60.86141026814779,
+      "sentiment_score": 1.0,
+      "form": 4.5,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "I.Osman": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Igor": {
+      "predicted_points": 22.419842974344892,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Jo\u00e3o Pedro": {
+      "predicted_points": 134.89540023803713,
+      "sentiment_score": 1.0,
+      "form": 7.5,
+      "team": "Brighton",
+      "position": 4,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 14.9
+    },
+    "Kozlowski": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Lamptey": {
+      "predicted_points": 47.98848982916938,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.3
+    },
+    "March": {
+      "predicted_points": 2.86485038333469,
+      "sentiment_score": 1.040909090909091,
+      "form": 0.5,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.65,
+      "selected_by_percent": 0.0
+    },
+    "Mazilu": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Milner": {
+      "predicted_points": 6.001873207092286,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Minteh": {
+      "predicted_points": 93.10748384263782,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 1.9
+    },
+    "Mitoma": {
+      "predicted_points": 142.52561645507814,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.65,
+      "selected_by_percent": 9.9
+    },
+    "Moder": {
+      "predicted_points": 4.931069284015233,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.4
+    },
+    "O\u2019Mahony": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Offiah": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Peupion": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Sarmiento": {
+      "predicted_points": 1.2061493515968325,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Steele": {
+      "predicted_points": 11.546726883782283,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 1,
+      "price": 0.41,
+      "selected_by_percent": 0.7
+    },
+    "Undav": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 4,
+      "price": 0.55,
+      "selected_by_percent": 0.0
+    },
+    "Van Hecke": {
+      "predicted_points": 95.01996977064346,
+      "sentiment_score": 1.0,
+      "form": 4.5,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 1.2
+    },
+    "Veltman": {
+      "predicted_points": 70.00055809020996,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 1.3
+    },
+    "Verbruggen": {
+      "predicted_points": 99.28084072536893,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Brighton",
+      "position": 1,
+      "price": 0.45,
+      "selected_by_percent": 2.9
+    },
+    "Webster": {
+      "predicted_points": 33.71923234727648,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Welbeck": {
+      "predicted_points": 112.99537675645618,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Brighton",
+      "position": 4,
+      "price": 0.55,
+      "selected_by_percent": 5.9
+    },
+    "Wieffer": {
+      "predicted_points": 37.19887602064345,
+      "sentiment_score": 1.0,
+      "form": 0.5,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.1
+    },
+    "Gruda": {
+      "predicted_points": 21.841046587626142,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "Ayari": {
+      "predicted_points": 56.93019638061524,
+      "sentiment_score": 1.0,
+      "form": 2.5,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Moran": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Rushworth": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.1
+    },
+    "Georginio": {
+      "predicted_points": 114.20831739637588,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.6
+    },
+    "F.Kad\u0131o\u011flu": {
+      "predicted_points": 22.913265970018177,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "O'Riley": {
+      "predicted_points": 30.732803768581817,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.0
+    },
+    "Samuels": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Cahill": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 1.1
+    },
+    "McConville": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Slater": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "G\u00f3mez": {
+      "predicted_points": 9.872168636322023,
+      "sentiment_score": 1.0,
+      "form": 1.5,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.0
+    },
+    "H\u00fcrzeler": {
+      "predicted_points": 65.08235499064128,
+      "sentiment_score": 1.0,
+      "form": 8.2,
+      "team": "Brighton",
+      "position": 5,
+      "price": 0.11000000000000001,
+      "selected_by_percent": 2.9
+    },
+    "Knight": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Cashin": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Brighton",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Andrey Santos": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "\u00c2ngelo": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "B.Badiashile": {
+      "predicted_points": 8.728390661875407,
+      "sentiment_score": 1.0,
+      "form": 0.5,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Bergstr\u00f6m": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.3
+    },
+    "Bettinelli": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.4
+    },
+    "Caicedo": {
+      "predicted_points": 85.92211117214627,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 1.0
+    },
+    "Casadei": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Chalobah": {
+      "predicted_points": 77.1192125108507,
+      "sentiment_score": 1.0,
+      "form": 0.5,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.8
+    },
+    "Chukwuemeka": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Colwill": {
+      "predicted_points": 84.84668986002605,
+      "sentiment_score": 1.0,
+      "form": 5.5,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 3.6
+    },
+    "Cucurella": {
+      "predicted_points": 110.1971452501085,
+      "sentiment_score": 1.0,
+      "form": 8.2,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.52,
+      "selected_by_percent": 9.3
+    },
+    "D.D.Fofana": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 4,
+      "price": 0.54,
+      "selected_by_percent": 0.1
+    },
+    "Deivid": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Dewsbury-Hall": {
+      "predicted_points": 14.413232125176323,
+      "sentiment_score": 1.0,
+      "form": 0.5,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.1
+    },
+    "Enzo": {
+      "predicted_points": 110.33827514648438,
+      "sentiment_score": 1.0,
+      "form": 4.5,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 4.1
+    },
+    "Gallagher": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 0.1
+    },
+    "Gilchrist": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Gusto": {
+      "predicted_points": 46.868523322211374,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 1.4
+    },
+    "James": {
+      "predicted_points": 28.769559860229492,
+      "sentiment_score": 1.0428071901069376,
+      "form": 0.8,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 0.9
+    },
+    "Kellyman": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Lavia": {
+      "predicted_points": 19.457619518703886,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.4
+    },
+    "Lukaku": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 4,
+      "price": 0.63,
+      "selected_by_percent": 0.2
+    },
+    "M.Sarr": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Madueke": {
+      "predicted_points": 116.80828925238715,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.6,
+      "selected_by_percent": 3.2
+    },
+    "Marc Guiu": {
+      "predicted_points": 3.1747400336795386,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 4,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.5
+    },
+    "Mudryk": {
+      "predicted_points": 7.740657732221815,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.61,
+      "selected_by_percent": 0.2
+    },
+    "N.Jackson": {
+      "predicted_points": 127.78785552978516,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 4,
+      "price": 0.77,
+      "selected_by_percent": 6.3
+    },
+    "Nkunku": {
+      "predicted_points": 67.61207962036133,
+      "sentiment_score": 1.0,
+      "form": 4.5,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 2.8
+    },
+    "Palmer": {
+      "predicted_points": 10.63555685679118,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Ipswich",
+      "position": 1,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Petrovi\u0107": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 1,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Renato Veiga": {
+      "predicted_points": 8.141552204555936,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "S\u00e1nchez": {
+      "predicted_points": 100.10766059027777,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Chelsea",
+      "position": 1,
+      "price": 0.45,
+      "selected_by_percent": 6.8
+    },
+    "Tosin": {
+      "predicted_points": 60.749739498562285,
+      "sentiment_score": 1.0,
+      "form": 4.5,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.5
+    },
+    "W.Fofana": {
+      "predicted_points": 31.55529382493761,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.3
+    },
+    "Sancho": {
+      "predicted_points": 80.25118916829427,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 1.0
+    },
+    "Wiley": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "J\u00f8rgensen": {
+      "predicted_points": 21.30582046508789,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Chelsea",
+      "position": 1,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.9
+    },
+    "Jo\u00e3o F\u00e9lix": {
+      "predicted_points": 27.79707683987088,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 0.4
+    },
+    "Rak-Sakyi": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "George": {
+      "predicted_points": 8.754928334554037,
+      "sentiment_score": 1.0,
+      "form": 1.5,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Acheampong": {
+      "predicted_points": 5.028000227610271,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Maresca": {
+      "predicted_points": 37.0593755086263,
+      "sentiment_score": 1.0,
+      "form": 5.5,
+      "team": "Chelsea",
+      "position": 5,
+      "price": 0.15,
+      "selected_by_percent": 1.9
+    },
+    "Amougou": {
+      "predicted_points": 1.1231867922676935,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Chelsea",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Anselmino": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Mheuka": {
+      "predicted_points": 1.2017772621578642,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Chelsea",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Samuels-Smith": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Genesis Antwi": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Chelsea",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Nketiah": {
+      "predicted_points": 41.00430357191298,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Crystal Palace",
+      "position": 4,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 1.0
+    },
+    "Chilwell": {
+      "predicted_points": 2.473109324773153,
+      "sentiment_score": 1.0,
+      "form": 0.5,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.5
+    },
+    "Ahamada": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "C.Doucour\u00e9": {
+      "predicted_points": 20.031812222798667,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "C.Richards": {
+      "predicted_points": 61.8930537753635,
+      "sentiment_score": 1.0,
+      "form": 4.8,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Chadi Riad": {
+      "predicted_points": 1.1509160101413727,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.0
+    },
+    "Clyne": {
+      "predicted_points": 18.435569339328342,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Ebiowei": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Eze": {
+      "predicted_points": 103.19328248765733,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.67,
+      "selected_by_percent": 7.8
+    },
+    "Gu\u00e9hi": {
+      "predicted_points": 121.05272979736328,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 8.6
+    },
+    "Henderson": {
+      "predicted_points": 126.20957344902887,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Crystal Palace",
+      "position": 1,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 13.2
+    },
+    "Holding": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Hughes": {
+      "predicted_points": 62.558910285101994,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Kamada": {
+      "predicted_points": 36.32266807556152,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.1
+    },
+    "Lerma": {
+      "predicted_points": 47.16463050842285,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Mateta": {
+      "predicted_points": 145.1548868815104,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Crystal Palace",
+      "position": 4,
+      "price": 0.75,
+      "selected_by_percent": 5.5
+    },
+    "M.Fran\u00e7a": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Matthews": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.5
+    },
+    "Mitchell": {
+      "predicted_points": 114.40001517401801,
+      "sentiment_score": 1.0,
+      "form": 4.8,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 2.0
+    },
+    "Mu\u00f1oz": {
+      "predicted_points": 132.66967595418294,
+      "sentiment_score": 1.0,
+      "form": 6.0,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.5,
+      "selected_by_percent": 15.1
+    },
+    "Ozoh": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Schlupp": {
+      "predicted_points": 14.394417889912923,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.0
+    },
+    "Ward": {
+      "predicted_points": 2.0734564701716107,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 2.1
+    },
+    "Wharton": {
+      "predicted_points": 27.763302103678384,
+      "sentiment_score": 1.0,
+      "form": 1.5,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.1
+    },
+    "Turner": {
+      "predicted_points": -0.10917264645298322,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 8.8
+    },
+    "I.Sarr": {
+      "predicted_points": 134.7165436638726,
+      "sentiment_score": 1.0,
+      "form": 7.8,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 3.6
+    },
+    "Umeh-Chibueze": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "Devenny": {
+      "predicted_points": 24.996036953396267,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Agbinone": {
+      "predicted_points": 2.41091005537245,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Rodney": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Lacroix": {
+      "predicted_points": 108.39760114881727,
+      "sentiment_score": 1.0,
+      "form": 4.5,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 1.0
+    },
+    "Kporha": {
+      "predicted_points": 2.3937767267227175,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Marsh": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Crystal Palace",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.3
+    },
+    "Esse": {
+      "predicted_points": 10.78473096423679,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Crystal Palace",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.1
+    },
+    "Glasner": {
+      "predicted_points": 72.88328717549642,
+      "sentiment_score": 1.0,
+      "form": 12.5,
+      "team": "Crystal Palace",
+      "position": 5,
+      "price": 0.08,
+      "selected_by_percent": 9.5
+    },
+    "Broja": {
+      "predicted_points": 7.1358824835883246,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.53,
+      "selected_by_percent": 0.0
+    },
+    "A.Doucoure": {
+      "predicted_points": 75.39634611341688,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.5
+    },
+    "Beto": {
+      "predicted_points": 71.14855482313368,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.51,
+      "selected_by_percent": 7.9
+    },
+    "Branthwaite": {
+      "predicted_points": 77.39820709228515,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 1.7
+    },
+    "Calvert-Lewin": {
+      "predicted_points": 66.93087819417318,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.54,
+      "selected_by_percent": 1.1
+    },
+    "Coleman": {
+      "predicted_points": 3.1113816605673894,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.0
+    },
+    "Gana": {
+      "predicted_points": 81.44812698364257,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.4
+    },
+    "Garner": {
+      "predicted_points": 27.167600313822426,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Harrison": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Holgate": {
+      "predicted_points": 0.9334764639536539,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Iroegbunam": {
+      "predicted_points": 19.96885380215115,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.43,
+      "selected_by_percent": 0.8
+    },
+    "J.Virginia": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.6
+    },
+    "Keane": {
+      "predicted_points": 38.6738217247857,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 4.1
+    },
+    "Maupay": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.2
+    },
+    "McNeil": {
+      "predicted_points": 76.00140719943576,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 1.2
+    },
+    "Mykolenko": {
+      "predicted_points": 95.78760409884983,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 8.8
+    },
+    "Ndiaye": {
+      "predicted_points": 93.61118460761176,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.52,
+      "selected_by_percent": 0.9
+    },
+    "Patterson": {
+      "predicted_points": 7.822332392798529,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "Pickford": {
+      "predicted_points": 132.3857450697157,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Everton",
+      "position": 1,
+      "price": 0.51,
+      "selected_by_percent": 18.6
+    },
+    "Tarkowski": {
+      "predicted_points": 108.48150575425889,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 3.7
+    },
+    "Y. Chermiti": {
+      "predicted_points": 0.24209700408909055,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Alcaraz": {
+      "predicted_points": 22.875071419609917,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Lindstr\u00f8m": {
+      "predicted_points": 51.04493594699436,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.1
+    },
+    "O'Brien": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Armstrong": {
+      "predicted_points": 54.5057373046875,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 4,
+      "price": 0.51,
+      "selected_by_percent": 0.6
+    },
+    "Metcalfe": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Begovic": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.2
+    },
+    "Dixon": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Mangala": {
+      "predicted_points": 43.19149241977267,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Bates": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Sherif": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Moyes": {
+      "predicted_points": 73.8082408481174,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Everton",
+      "position": 5,
+      "price": 0.05,
+      "selected_by_percent": 11.7
+    },
+    "Heath": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Coby Ebere": {
+      "predicted_points": 0.024301052445338832,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Everton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Nelson": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Smith Rowe": {
+      "predicted_points": 111.43901697794597,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 8.2
+    },
+    "Andersen": {
+      "predicted_points": 49.70272636413574,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 3.7
+    },
+    "Adama": {
+      "predicted_points": 84.78538513183594,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 1.5
+    },
+    "Andreas": {
+      "predicted_points": 81.96941502888998,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.9
+    },
+    "Bassey": {
+      "predicted_points": 77.81298700968425,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.6
+    },
+    "Benda": {
+      "predicted_points": 0.02477291754136483,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.4
+    },
+    "Cairney": {
+      "predicted_points": 26.924928665161133,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Castagne": {
+      "predicted_points": 48.347710927327476,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 1.6
+    },
+    "Diop": {
+      "predicted_points": 34.41714286804199,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Iwobi": {
+      "predicted_points": 139.3874003092448,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 4.8
+    },
+    "Leno": {
+      "predicted_points": 109.17529805501303,
+      "sentiment_score": 1.0,
+      "form": 4.2,
+      "team": "Fulham",
+      "position": 1,
+      "price": 0.5,
+      "selected_by_percent": 2.6
+    },
+    "Luki\u0107": {
+      "predicted_points": 50.17840258280437,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Mbabu": {
+      "predicted_points": 0.02477291754136483,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Muniz": {
+      "predicted_points": 85.32052866617839,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Fulham",
+      "position": 4,
+      "price": 0.55,
+      "selected_by_percent": 1.5
+    },
+    "Ra\u00fal": {
+      "predicted_points": 136.34110005696616,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Fulham",
+      "position": 4,
+      "price": 0.55,
+      "selected_by_percent": 7.6
+    },
+    "Ream": {
+      "predicted_points": 0.02477291754136483,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Reed": {
+      "predicted_points": 9.086045185724895,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Robinson": {
+      "predicted_points": 114.42276128133139,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.5,
+      "selected_by_percent": 23.5
+    },
+    "Stansfield": {
+      "predicted_points": 1.1125906904538474,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 4,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Tete": {
+      "predicted_points": 42.25835037231445,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Vinicius": {
+      "predicted_points": 1.1904397408167522,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 4,
+      "price": 0.5,
+      "selected_by_percent": 0.3
+    },
+    "Wilson": {
+      "predicted_points": 8.1769773695204,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Newcastle",
+      "position": 4,
+      "price": 0.6900000000000001,
+      "selected_by_percent": 0.1
+    },
+    "Sessegnon": {
+      "predicted_points": 24.21152432759603,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.41,
+      "selected_by_percent": 0.2
+    },
+    "J.Cuenca": {
+      "predicted_points": 7.362350861231486,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "King": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 1.3
+    },
+    "Godo": {
+      "predicted_points": 1.1736269394556682,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "Berge": {
+      "predicted_points": 46.7000675201416,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Amissah": {
+      "predicted_points": 0.02477291754136483,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Fulham",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Silva": {
+      "predicted_points": 61.958916982014976,
+      "sentiment_score": 1.0,
+      "form": 7.4,
+      "team": "Fulham",
+      "position": 5,
+      "price": 0.11000000000000001,
+      "selected_by_percent": 0.6
+    },
+    "Willian": {
+      "predicted_points": 7.865164438883464,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Fulham",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Enciso": {
+      "predicted_points": 30.030648167928064,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.1
+    },
+    "Al-Hamadi": {
+      "predicted_points": 9.748028638627796,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 4,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.2
+    },
+    "Baggott": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Broadhead": {
+      "predicted_points": 21.261296166314022,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Burgess": {
+      "predicted_points": 19.00542939503988,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.38,
+      "selected_by_percent": 2.0
+    },
+    "Burns": {
+      "predicted_points": 36.286449347602,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Chaplin": {
+      "predicted_points": 39.231043624877934,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.1
+    },
+    "H.Clarke": {
+      "predicted_points": 1.1165313151147631,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Davis": {
+      "predicted_points": 60.15094324747722,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 1.2
+    },
+    "Delap": {
+      "predicted_points": 130.91965857611763,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Ipswich",
+      "position": 4,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 3.5
+    },
+    "Edmundson": {
+      "predicted_points": 1.2061493515968325,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Greaves": {
+      "predicted_points": 40.35084923638238,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 4.2
+    },
+    "Harness": {
+      "predicted_points": 2.5040249135759143,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Hirst": {
+      "predicted_points": 37.014541753133145,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Ipswich",
+      "position": 4,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "Humphreys": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Hutchinson": {
+      "predicted_points": 91.18434414333768,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 0.3
+    },
+    "Johnson": {
+      "predicted_points": 127.46455078125,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 2.3
+    },
+    "Ladapo": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.4
+    },
+    "Luongo": {
+      "predicted_points": 10.750088363223608,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Morsy": {
+      "predicted_points": 60.36653658548992,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "Ndaba": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Slicker": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.6
+    },
+    "Taylor": {
+      "predicted_points": 6.6731260299682615,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 3.9
+    },
+    "Tuanzebe": {
+      "predicted_points": 23.305425008138023,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.4
+    },
+    "Walton": {
+      "predicted_points": 18.302556535932755,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 0.2
+    },
+    "Woolfenden": {
+      "predicted_points": 20.840462960137263,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.3
+    },
+    "Phillips": {
+      "predicted_points": 30.863430277506513,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "Muric": {
+      "predicted_points": 59.21356383429634,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 1,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.6
+    },
+    "Jaden": {
+      "predicted_points": 43.28145870632596,
+      "sentiment_score": 1.0,
+      "form": 4.4,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 0.1
+    },
+    "Townsend": {
+      "predicted_points": 5.265504609213935,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.6
+    },
+    "Szmodics": {
+      "predicted_points": 62.033135689629454,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 0.2
+    },
+    "Cajuste": {
+      "predicted_points": 56.434920756022144,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "O'Shea": {
+      "predicted_points": 43.85499750773113,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.3
+    },
+    "J.Clarke": {
+      "predicted_points": 51.75595164828831,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "Ogbene": {
+      "predicted_points": 8.067903264363608,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Ipswich",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Godfrey": {
+      "predicted_points": -0.14522134868635073,
+      "sentiment_score": 1.0,
+      "form": -0.2,
+      "team": "Ipswich",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Buonanotte": {
+      "predicted_points": 75.60918176439073,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.5
+    },
+    "J.Ayew": {
+      "predicted_points": 69.43455971611871,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.2
+    },
+    "Edouard": {
+      "predicted_points": 8.440374586317274,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 4,
+      "price": 0.51,
+      "selected_by_percent": 0.2
+    },
+    "B.Soumar\u00e9": {
+      "predicted_points": 38.46428625318739,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.3
+    },
+    "Cannon": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.3
+    },
+    "Choudhury": {
+      "predicted_points": 4.76847308476766,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.4
+    },
+    "Coady": {
+      "predicted_points": 14.478406206766763,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.3
+    },
+    "Daka": {
+      "predicted_points": 30.07753194173177,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Leicester",
+      "position": 4,
+      "price": 0.48,
+      "selected_by_percent": 0.6
+    },
+    "De Cordova-Reid": {
+      "predicted_points": 49.190676879882815,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 0.1
+    },
+    "Faes": {
+      "predicted_points": 41.13814790513781,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 6.0
+    },
+    "Golding": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.2
+    },
+    "Hermansen": {
+      "predicted_points": 62.800203789605035,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Leicester",
+      "position": 1,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.4
+    },
+    "Iversen": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.8
+    },
+    "Justin": {
+      "predicted_points": 55.332894558376736,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.41,
+      "selected_by_percent": 1.2
+    },
+    "Kristiansen": {
+      "predicted_points": 37.977286444769966,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Marcal": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Mavididi": {
+      "predicted_points": 70.80340737236871,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.3
+    },
+    "McAteer": {
+      "predicted_points": 21.61206381056044,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Ndidi": {
+      "predicted_points": 55.904685423109264,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.2
+    },
+    "Okoli": {
+      "predicted_points": 23.39016799926758,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.5
+    },
+    "Ricardo": {
+      "predicted_points": 3.430417799949646,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.41,
+      "selected_by_percent": 0.1
+    },
+    "Souttar": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Stolarczyk": {
+      "predicted_points": 13.352693367004395,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.5
+    },
+    "Vardy": {
+      "predicted_points": 119.72514385647244,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Leicester",
+      "position": 4,
+      "price": 0.53,
+      "selected_by_percent": 4.9
+    },
+    "Vestergaard": {
+      "predicted_points": 13.818531693352593,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.8
+    },
+    "Winks": {
+      "predicted_points": 50.06667425367567,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 5.3
+    },
+    "Skipp": {
+      "predicted_points": 21.95196728176541,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "A.Fatawu": {
+      "predicted_points": 32.4403728697035,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.2
+    },
+    "Alves": {
+      "predicted_points": 1.1509160101413727,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "El Khannouss": {
+      "predicted_points": 68.6138742658827,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.2
+    },
+    "Cartwright": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Wilson-Brown": {
+      "predicted_points": 0.025244782637390824,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Coulibaly": {
+      "predicted_points": 1.1646397511164348,
+      "sentiment_score": 1.0,
+      "form": -0.2,
+      "team": "Leicester",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Van Nistelrooy": {
+      "predicted_points": 15.897292423248292,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Leicester",
+      "position": 5,
+      "price": 0.05,
+      "selected_by_percent": 0.3
+    },
+    "A.Becker": {
+      "predicted_points": 108.70179604424372,
+      "sentiment_score": 1.0,
+      "form": 4.2,
+      "team": "Liverpool",
+      "position": 1,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 9.8
+    },
+    "Alexander-Arnold": {
+      "predicted_points": 161.77510545518666,
+      "sentiment_score": 1.0,
+      "form": 5.4,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.74,
+      "selected_by_percent": 27.1
+    },
+    "Bajcetic": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Bradley": {
+      "predicted_points": 19.90058411492242,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.2
+    },
+    "Clark": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Darwin": {
+      "predicted_points": 72.26012780931262,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Liverpool",
+      "position": 4,
+      "price": 0.7,
+      "selected_by_percent": 2.0
+    },
+    "Diogo J.": {
+      "predicted_points": 83.78038889567058,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.72,
+      "selected_by_percent": 2.6
+    },
+    "Doak": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Elliott": {
+      "predicted_points": 16.06577507654826,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 0.2
+    },
+    "Endo": {
+      "predicted_points": 15.494272549947105,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.1
+    },
+    "Gakpo": {
+      "predicted_points": 119.01845355563695,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Liverpool",
+      "position": 4,
+      "price": 0.74,
+      "selected_by_percent": 6.7
+    },
+    "Gomez": {
+      "predicted_points": 16.16638068093194,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.4
+    },
+    "Gravenberch": {
+      "predicted_points": 87.16327082316081,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.7
+    },
+    "Jones": {
+      "predicted_points": 85.08139639960396,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 0.3
+    },
+    "Kelleher": {
+      "predicted_points": 45.25155631171333,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 1.1
+    },
+    "Konat\u00e9": {
+      "predicted_points": 99.69221674601238,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.52,
+      "selected_by_percent": 7.1
+    },
+    "Luis D\u00edaz": {
+      "predicted_points": 166.3121336195204,
+      "sentiment_score": 1.0,
+      "form": 6.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.75,
+      "selected_by_percent": 15.2
+    },
+    "M.Salah": {
+      "predicted_points": 368.68025139702695,
+      "sentiment_score": 1.0,
+      "form": 11.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 1.3699999999999999,
+      "selected_by_percent": 69.0
+    },
+    "Mac Allister": {
+      "predicted_points": 104.11171154446073,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 1.7
+    },
+    "McConnell": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Morton": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "N.Phillips": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Quansah": {
+      "predicted_points": 11.308088874816896,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.1
+    },
+    "R.Williams": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Robertson": {
+      "predicted_points": 89.75115780300565,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.58,
+      "selected_by_percent": 4.0
+    },
+    "Szoboszlai": {
+      "predicted_points": 133.842062886556,
+      "sentiment_score": 1.0,
+      "form": 5.8,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.64,
+      "selected_by_percent": 3.8
+    },
+    "Tsimikas": {
+      "predicted_points": 37.9388234032525,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.2
+    },
+    "Virgil": {
+      "predicted_points": 130.71135101318362,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.64,
+      "selected_by_percent": 21.6
+    },
+    "Chiesa": {
+      "predicted_points": 2.5040249135759143,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.6799999999999999,
+      "selected_by_percent": 0.2
+    },
+    "Jaros": {
+      "predicted_points": 1.2061493515968325,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Davies": {
+      "predicted_points": 32.21215667724609,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.2
+    },
+    "Nyoni": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Nallo": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Danns": {
+      "predicted_points": 1.1886959903770025,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Liverpool",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Slot": {
+      "predicted_points": 80.43706359863282,
+      "sentiment_score": 1.0,
+      "form": 8.4,
+      "team": "Liverpool",
+      "position": 5,
+      "price": 0.15,
+      "selected_by_percent": 24.0
+    },
+    "Akanji": {
+      "predicted_points": 50.84704411824544,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.53,
+      "selected_by_percent": 2.3
+    },
+    "Ak\u00e9": {
+      "predicted_points": 30.291397603352866,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.53,
+      "selected_by_percent": 0.8
+    },
+    "Bernardo": {
+      "predicted_points": 96.20334040323894,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.61,
+      "selected_by_percent": 2.6
+    },
+    "Bobb": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.1
+    },
+    "Carson": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.2
+    },
+    "De Bruyne": {
+      "predicted_points": 91.28908971150716,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.93,
+      "selected_by_percent": 3.8
+    },
+    "Doku": {
+      "predicted_points": 84.60781275431316,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 1.5
+    },
+    "Ederson M.": {
+      "predicted_points": 92.24404983520509,
+      "sentiment_score": 1.0,
+      "form": 5.2,
+      "team": "Man City",
+      "position": 1,
+      "price": 0.53,
+      "selected_by_percent": 5.1
+    },
+    "Foden": {
+      "predicted_points": 121.59319025675457,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.9199999999999999,
+      "selected_by_percent": 6.2
+    },
+    "Grealish": {
+      "predicted_points": 32.12860056559245,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.64,
+      "selected_by_percent": 0.2
+    },
+    "Gvardiol": {
+      "predicted_points": 131.5553736368815,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.6,
+      "selected_by_percent": 22.3
+    },
+    "Haaland": {
+      "predicted_points": 210.670876566569,
+      "sentiment_score": 1.0442748590387627,
+      "form": 4.4,
+      "team": "Man City",
+      "position": 4,
+      "price": 1.48,
+      "selected_by_percent": 30.6
+    },
+    "J.Alvarez": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 4,
+      "price": 0.7,
+      "selected_by_percent": 0.1
+    },
+    "Jo\u00e3o Cancelo": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.53,
+      "selected_by_percent": 0.2
+    },
+    "Kova\u010di\u0107": {
+      "predicted_points": 97.19210917154949,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 1.2
+    },
+    "Lewis": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Matheus N.": {
+      "predicted_points": 57.02150192260743,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "McAtee": {
+      "predicted_points": 24.94667008717855,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.1
+    },
+    "Ortega Moreno": {
+      "predicted_points": 31.249048868815105,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Man City",
+      "position": 1,
+      "price": 0.52,
+      "selected_by_percent": 0.6
+    },
+    "Rodrigo": {
+      "predicted_points": 1.7374529639879863,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 0.8
+    },
+    "R\u00faben": {
+      "predicted_points": 51.1426274617513,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.54,
+      "selected_by_percent": 2.3
+    },
+    "Stones": {
+      "predicted_points": 35.74880256652832,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.53,
+      "selected_by_percent": 1.0
+    },
+    "Walker": {
+      "predicted_points": 15.858726692199708,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.51,
+      "selected_by_percent": 2.6
+    },
+    "Savinho": {
+      "predicted_points": 112.48753331502279,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 2.7
+    },
+    "O\u2019Reilly": {
+      "predicted_points": 2.5271053234736125,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "G\u00fcndogan": {
+      "predicted_points": 67.76682637532552,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.63,
+      "selected_by_percent": 0.4
+    },
+    "Kabor\u00e9": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Wright": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Simpson-Pusey": {
+      "predicted_points": 1.2699401537577313,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Wilson-Esbrand": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Mubama": {
+      "predicted_points": 1.3166905085245768,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Alleyne": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Brits": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Khusanov": {
+      "predicted_points": 16.689644940694173,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.5,
+      "selected_by_percent": 0.6
+    },
+    "Vitor Reis": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Guardiola": {
+      "predicted_points": 44.99230995178223,
+      "sentiment_score": 1.0,
+      "form": 5.2,
+      "team": "Man City",
+      "position": 5,
+      "price": 0.15,
+      "selected_by_percent": 8.2
+    },
+    "Marmoush": {
+      "predicted_points": 47.484246063232426,
+      "sentiment_score": 1.0,
+      "form": 6.8,
+      "team": "Man City",
+      "position": 4,
+      "price": 0.73,
+      "selected_by_percent": 12.5
+    },
+    "N.Gonzalez": {
+      "predicted_points": 14.53398510615031,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.6,
+      "selected_by_percent": 0.0
+    },
+    "Echeverri": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man City",
+      "position": 3,
+      "price": 0.6,
+      "selected_by_percent": 0.0
+    },
+    "Amad": {
+      "predicted_points": 127.1717758178711,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 4.8
+    },
+    "Antony": {
+      "predicted_points": 9.028618547651503,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 0.2
+    },
+    "B.Fernandes": {
+      "predicted_points": 178.71221449110243,
+      "sentiment_score": 1.0,
+      "form": 9.6,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.86,
+      "selected_by_percent": 18.3
+    },
+    "Bayindir": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Casemiro": {
+      "predicted_points": 48.393392944335936,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.4
+    },
+    "Dalot": {
+      "predicted_points": 95.96549004448785,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.5,
+      "selected_by_percent": 5.6
+    },
+    "Eriksen": {
+      "predicted_points": 34.64632699754503,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 0.2
+    },
+    "Evans": {
+      "predicted_points": 16.321100574069554,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Garnacho": {
+      "predicted_points": 92.17968461778429,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 4.9
+    },
+    "Hannibal": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Heaton": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.2
+    },
+    "H\u00f8jlund": {
+      "predicted_points": 65.99364607069228,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Man Utd",
+      "position": 4,
+      "price": 0.6900000000000001,
+      "selected_by_percent": 1.0
+    },
+    "Lindelof": {
+      "predicted_points": 14.777860747443306,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Maguire": {
+      "predicted_points": 40.536143663194444,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.6
+    },
+    "Mainoo": {
+      "predicted_points": 39.02836939493815,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 1.8
+    },
+    "Malacia": {
+      "predicted_points": 2.3714049816131593,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "McTominay": {
+      "predicted_points": 2.4023139317830404,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Mount": {
+      "predicted_points": 8.332140689425998,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.63,
+      "selected_by_percent": 0.1
+    },
+    "Pellistri": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Shaw": {
+      "predicted_points": 2.5370493570963544,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Zirkzee": {
+      "predicted_points": 69.9491470336914,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Man Utd",
+      "position": 4,
+      "price": 0.65,
+      "selected_by_percent": 1.8
+    },
+    "Yoro": {
+      "predicted_points": 14.199502012464736,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.2
+    },
+    "De Ligt": {
+      "predicted_points": 78.86753929985895,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 3.4
+    },
+    "Mazraoui": {
+      "predicted_points": 85.70306599934896,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 8.5
+    },
+    "Collyer": {
+      "predicted_points": 7.639341364966499,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Wheatley": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 1.1
+    },
+    "Ugarte": {
+      "predicted_points": 40.16125445895725,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Heaven": {
+      "predicted_points": 2.489367135365804,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Fletcher": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Amass": {
+      "predicted_points": 1.1231867922676935,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Fitzgerald": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Kukonki": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Amorim": {
+      "predicted_points": 51.9212764316135,
+      "sentiment_score": 1.0,
+      "form": 6.8,
+      "team": "Man Utd",
+      "position": 5,
+      "price": 0.08,
+      "selected_by_percent": 4.7
+    },
+    "Dorgu": {
+      "predicted_points": 0.06473204145828883,
+      "sentiment_score": 1.0,
+      "form": -0.2,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Obi": {
+      "predicted_points": 2.3406944195429484,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Man Utd",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Fredricson": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Moorhouse": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Kon\u00e9": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Graczyk": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Dermot Mee": {
+      "predicted_points": 0.025008850089377827,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Man Utd",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "A.Murphy": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.5
+    },
+    "Almir\u00f3n": {
+      "predicted_points": 11.06183360417684,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.3
+    },
+    "Barnes": {
+      "predicted_points": 86.69383960300023,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 1.0
+    },
+    "Botman": {
+      "predicted_points": 8.534407122929892,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "Bruno G.": {
+      "predicted_points": 124.96576199001737,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.61,
+      "selected_by_percent": 2.0
+    },
+    "Burn": {
+      "predicted_points": 88.88185441758898,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 6.2
+    },
+    "D\u00fabravka": {
+      "predicted_points": 52.83524890475803,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Newcastle",
+      "position": 1,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 2.2
+    },
+    "Gordon": {
+      "predicted_points": 135.3433945549859,
+      "sentiment_score": 1.0,
+      "form": 1.5,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.74,
+      "selected_by_percent": 8.6
+    },
+    "Hall": {
+      "predicted_points": 124.97356058756512,
+      "sentiment_score": 1.0,
+      "form": 2.5,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 10.0
+    },
+    "Hayden": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Isak": {
+      "predicted_points": 204.6611272176107,
+      "sentiment_score": 1.0,
+      "form": 4.2,
+      "team": "Newcastle",
+      "position": 4,
+      "price": 0.93,
+      "selected_by_percent": 51.9
+    },
+    "J.Murphy": {
+      "predicted_points": 123.18702570597333,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 3.3
+    },
+    "Joelinton": {
+      "predicted_points": 95.05703158908422,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.6,
+      "selected_by_percent": 1.1
+    },
+    "Kelly": {
+      "predicted_points": 14.687125788794624,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Krafth": {
+      "predicted_points": 14.158350382910836,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Kuol": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Lascelles": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Livramento": {
+      "predicted_points": 79.74842156304254,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 1.7
+    },
+    "Longstaff": {
+      "predicted_points": 36.42350461747912,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.4
+    },
+    "Miley": {
+      "predicted_points": 18.27908220291138,
+      "sentiment_score": 1.0,
+      "form": 2.5,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Odysseas": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 1,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Pope": {
+      "predicted_points": 67.8882423400879,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Newcastle",
+      "position": 1,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 3.3
+    },
+    "Ruddy": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 0.3
+    },
+    "Sch\u00e4r": {
+      "predicted_points": 77.71728422376846,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.54,
+      "selected_by_percent": 1.5
+    },
+    "Targett": {
+      "predicted_points": 1.4633277985784745,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.3
+    },
+    "Tonali": {
+      "predicted_points": 69.15982492234973,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.4
+    },
+    "Trippier": {
+      "predicted_points": 38.35610381232368,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.5599999999999999,
+      "selected_by_percent": 3.4
+    },
+    "Willock": {
+      "predicted_points": 45.49225485059951,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Newcastle",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.1
+    },
+    "Pivas": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Osula": {
+      "predicted_points": 10.813450813293459,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Newcastle",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.2
+    },
+    "Howe": {
+      "predicted_points": 35.965976884629995,
+      "sentiment_score": 1.0,
+      "form": 4.8,
+      "team": "Newcastle",
+      "position": 5,
+      "price": 0.15,
+      "selected_by_percent": 3.0
+    },
+    "Neave": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Newcastle",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Alex Moreno": {
+      "predicted_points": 40.257820002237956,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.4
+    },
+    "Aina": {
+      "predicted_points": 149.80094782511395,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.54,
+      "selected_by_percent": 29.6
+    },
+    "Anderson": {
+      "predicted_points": 101.69458694458008,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.3
+    },
+    "Awoniyi": {
+      "predicted_points": 29.345400110880536,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Nott'm Forest",
+      "position": 4,
+      "price": 0.55,
+      "selected_by_percent": 0.3
+    },
+    "Boly": {
+      "predicted_points": 7.208674287796021,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Bowler": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "C.Miguel": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 1,
+      "price": 0.41,
+      "selected_by_percent": 0.1
+    },
+    "Da Silva Moreira": {
+      "predicted_points": 2.5271053234736125,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Danilo": {
+      "predicted_points": 9.442876529693605,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Dominguez": {
+      "predicted_points": 45.57274500528972,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Elanga": {
+      "predicted_points": 144.80903981526694,
+      "sentiment_score": 1.0,
+      "form": 5.2,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 6.4
+    },
+    "Gibbs-White": {
+      "predicted_points": 145.37696482340496,
+      "sentiment_score": 1.0,
+      "form": 4.6,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.6599999999999999,
+      "selected_by_percent": 8.0
+    },
+    "Hudson-Odoi": {
+      "predicted_points": 119.68957443237305,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.52,
+      "selected_by_percent": 2.2
+    },
+    "Mighten": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Murillo": {
+      "predicted_points": 125.83795827229818,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 3.7
+    },
+    "N.Williams": {
+      "predicted_points": 103.04315948486328,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 3.1
+    },
+    "O.Richards": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Omobamidele": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.0
+    },
+    "Panzo": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Sangar\u00e9": {
+      "predicted_points": 15.005892340342205,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.43,
+      "selected_by_percent": 1.3
+    },
+    "Sels": {
+      "predicted_points": 153.49725926717124,
+      "sentiment_score": 1.0,
+      "form": 3.6,
+      "team": "Nott'm Forest",
+      "position": 1,
+      "price": 0.51,
+      "selected_by_percent": 18.7
+    },
+    "Toffolo": {
+      "predicted_points": 3.47897322177887,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Ui-jo": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.8
+    },
+    "Wood": {
+      "predicted_points": 15.287966537475585,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 1.1
+    },
+    "Worrall": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Yates": {
+      "predicted_points": 68.36117820739746,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "Milenkovi\u0107": {
+      "predicted_points": 147.43890635172528,
+      "sentiment_score": 1.0,
+      "form": 5.6,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 9.7
+    },
+    "Jota Silva": {
+      "predicted_points": 50.636495208740236,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.5900000000000001,
+      "selected_by_percent": 0.1
+    },
+    "Sosa": {
+      "predicted_points": 23.774000358581546,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.1
+    },
+    "Morato": {
+      "predicted_points": 40.445381291707356,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Abbott": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Hennessey": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Nott'm Forest",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Nuno": {
+      "predicted_points": 53.29798736572266,
+      "sentiment_score": 1.0,
+      "form": 5.6,
+      "team": "Nott'm Forest",
+      "position": 5,
+      "price": 0.11000000000000001,
+      "selected_by_percent": 7.5
+    },
+    "Ramsdale": {
+      "predicted_points": 67.78424377441407,
+      "sentiment_score": 1.0,
+      "form": 1.6,
+      "team": "Southampton",
+      "position": 1,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.2
+    },
+    "Archer": {
+      "predicted_points": 54.50409851074219,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Southampton",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 1.3
+    },
+    "Ugochukwu": {
+      "predicted_points": 32.893185424804685,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.3
+    },
+    "Fraser": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 1.0
+    },
+    "Amo-Ameyaw": {
+      "predicted_points": 1.2557405948638916,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Aribo": {
+      "predicted_points": 79.52993774414062,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Bazunu": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Bednarek": {
+      "predicted_points": 57.76124725341796,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 2.4
+    },
+    "Bella-Kotchap": {
+      "predicted_points": 2.4476406097412107,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.4
+    },
+    "Bree": {
+      "predicted_points": 19.012081146240234,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.4
+    },
+    "Charles": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Edozie": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Edwards": {
+      "predicted_points": 1.2336100101470946,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.2
+    },
+    "Harwood-Bellis": {
+      "predicted_points": 52.33500366210937,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 5.6
+    },
+    "Kamaldeen": {
+      "predicted_points": 38.30882263183594,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Lallana": {
+      "predicted_points": 19.768679809570312,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Larios": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.1
+    },
+    "Lis": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Lumley": {
+      "predicted_points": 10.391741180419922,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.5
+    },
+    "Manning": {
+      "predicted_points": 22.045992279052733,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Mara": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 4,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "McCarthy": {
+      "predicted_points": 14.05685920715332,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 1,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.1
+    },
+    "Onuachu": {
+      "predicted_points": 48.01712493896484,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Southampton",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.3
+    },
+    "Smallbone": {
+      "predicted_points": 23.056107330322266,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Stephens": {
+      "predicted_points": 14.460444259643554,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.4
+    },
+    "Stewart": {
+      "predicted_points": 3.051352214813232,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 4,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.7
+    },
+    "Sugawara": {
+      "predicted_points": 44.766293334960935,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.2
+    },
+    "Walker-Peters": {
+      "predicted_points": 53.10006866455078,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.3
+    },
+    "Cornet": {
+      "predicted_points": 1.273033905029297,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Downes": {
+      "predicted_points": 41.7478271484375,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Brereton D\u00edaz": {
+      "predicted_points": 15.205556488037109,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "Dibling": {
+      "predicted_points": 68.00893249511718,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.6
+    },
+    "M.Fernandes": {
+      "predicted_points": 75.0285140991211,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.1
+    },
+    "O'Brien-Whitmarsh": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Welington": {
+      "predicted_points": 4.142934322357178,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Kayi Sanda": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Southampton",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Gr\u00f8nb\u00e6k": {
+      "predicted_points": 6.988482284545898,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Southampton",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Juri\u0107": {
+      "predicted_points": 15.94349899291992,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Southampton",
+      "position": 5,
+      "price": 0.05,
+      "selected_by_percent": 0.1
+    },
+    "Solanke": {
+      "predicted_points": 103.31730651855469,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Spurs",
+      "position": 4,
+      "price": 0.73,
+      "selected_by_percent": 4.8
+    },
+    "A.Phillips": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.2
+    },
+    "Austin": {
+      "predicted_points": 1.1616722345352173,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 0.5
+    },
+    "Bentancur": {
+      "predicted_points": 48.90550689697265,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.1
+    },
+    "Bergvall": {
+      "predicted_points": 45.57804565429687,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.1
+    },
+    "Bissouma": {
+      "predicted_points": 51.29483184814453,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.2
+    },
+    "Bryan": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Devine": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Dragusin": {
+      "predicted_points": 29.45145034790039,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.2
+    },
+    "E.Royal": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Forster": {
+      "predicted_points": 21.917081451416013,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 0.4
+    },
+    "Gray": {
+      "predicted_points": 40.099205017089844,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.2
+    },
+    "H\u00f8jbjerg": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Kulusevski": {
+      "predicted_points": 132.20596618652343,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 3.0
+    },
+    "Lo Celso": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.0
+    },
+    "Maddison": {
+      "predicted_points": 140.30656127929686,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.74,
+      "selected_by_percent": 4.8
+    },
+    "Pedro Porro": {
+      "predicted_points": 113.60380554199219,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.53,
+      "selected_by_percent": 19.5
+    },
+    "Reguil\u00f3n": {
+      "predicted_points": 1.3983465671539306,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.41,
+      "selected_by_percent": 0.2
+    },
+    "Richarlison": {
+      "predicted_points": 25.299291229248045,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 4,
+      "price": 0.6799999999999999,
+      "selected_by_percent": 0.3
+    },
+    "Romero": {
+      "predicted_points": 51.23735046386719,
+      "sentiment_score": 1.0,
+      "form": 1.8,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 3.4
+    },
+    "P.M.Sarr": {
+      "predicted_points": 72.8170394897461,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.2
+    },
+    "Scarlett": {
+      "predicted_points": 7.769192504882812,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Spurs",
+      "position": 4,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.7
+    },
+    "Solomon": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "Son": {
+      "predicted_points": 147.22010192871093,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.97,
+      "selected_by_percent": 5.6
+    },
+    "Spence": {
+      "predicted_points": 51.75640869140625,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 1.1
+    },
+    "Udogie": {
+      "predicted_points": 50.888964843749996,
+      "sentiment_score": 1.0,
+      "form": 1.2,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 1.4
+    },
+    "Van de Ven": {
+      "predicted_points": 36.003153991699214,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 2.4
+    },
+    "Veliz": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 4,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Vicario": {
+      "predicted_points": 67.9933868408203,
+      "sentiment_score": 1.0,
+      "form": 3.8,
+      "team": "Spurs",
+      "position": 1,
+      "price": 0.48,
+      "selected_by_percent": 1.8
+    },
+    "Werner": {
+      "predicted_points": 38.59600067138672,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 0.1
+    },
+    "Whiteman": {
+      "predicted_points": -0.030638714879751203,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 1.5
+    },
+    "Lankshear": {
+      "predicted_points": 2.9961092948913572,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 1.1
+    },
+    "Moore": {
+      "predicted_points": 16.544458007812498,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Odobert": {
+      "predicted_points": 15.86674346923828,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 0.0
+    },
+    "Olusesi": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Hardy": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Williams-Barnett": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Dorrington": {
+      "predicted_points": 1.1616722345352173,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Kinsky": {
+      "predicted_points": 14.900872421264648,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 0.2
+    },
+    "Yang": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Ajayi": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Postecoglou": {
+      "predicted_points": 47.547203063964844,
+      "sentiment_score": 1.0,
+      "form": 5.8,
+      "team": "Spurs",
+      "position": 5,
+      "price": 0.11000000000000001,
+      "selected_by_percent": 3.1
+    },
+    "Cassanova": {
+      "predicted_points": 0.025480715185403822,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Danso": {
+      "predicted_points": 13.902663803100586,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Spurs",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Tel": {
+      "predicted_points": 11.858453750610352,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Spurs",
+      "position": 3,
+      "price": 0.6,
+      "selected_by_percent": 0.2
+    },
+    "Ferguson": {
+      "predicted_points": 28.713618426852758,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "West Ham",
+      "position": 4,
+      "price": 0.55,
+      "selected_by_percent": 0.3
+    },
+    "Wan-Bissaka": {
+      "predicted_points": 107.52207336425782,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 6.6
+    },
+    "\u00c1lvarez": {
+      "predicted_points": 41.023034752739804,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.1
+    },
+    "Antonio": {
+      "predicted_points": 50.45833524068197,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 4,
+      "price": 0.53,
+      "selected_by_percent": 0.8
+    },
+    "Areola": {
+      "predicted_points": 54.30395859612359,
+      "sentiment_score": 1.0,
+      "form": 4.2,
+      "team": "West Ham",
+      "position": 1,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 4.4
+    },
+    "Bowen": {
+      "predicted_points": 151.23789732191298,
+      "sentiment_score": 1.06,
+      "form": 5.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.76,
+      "selected_by_percent": 10.0
+    },
+    "Coufal": {
+      "predicted_points": 21.612036705017093,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.41,
+      "selected_by_percent": 0.4
+    },
+    "Cresswell": {
+      "predicted_points": 33.6473101509942,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 2.1
+    },
+    "Earthy": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Emerson": {
+      "predicted_points": 68.3175579071045,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.6
+    },
+    "Fabianski": {
+      "predicted_points": 44.26157794528538,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 1,
+      "price": 0.4,
+      "selected_by_percent": 14.7
+    },
+    "Foderingham": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Ings": {
+      "predicted_points": 41.130163828531906,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "West Ham",
+      "position": 4,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 1.2
+    },
+    "Kilman": {
+      "predicted_points": 81.01821619669597,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 1.3
+    },
+    "Kudus": {
+      "predicted_points": 91.32426613701715,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.62,
+      "selected_by_percent": 2.5
+    },
+    "L.Guilherme": {
+      "predicted_points": 8.067903264363608,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.45999999999999996,
+      "selected_by_percent": 0.0
+    },
+    "L.Paquet\u00e1": {
+      "predicted_points": 82.59241485595705,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.5700000000000001,
+      "selected_by_percent": 0.9
+    },
+    "Mavropanos": {
+      "predicted_points": 46.714320034450964,
+      "sentiment_score": 1.0,
+      "form": 1.4,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "N.Aguerd": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "Sou\u010dek": {
+      "predicted_points": 122.54171023898655,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 1.5
+    },
+    "Ward-Prowse": {
+      "predicted_points": 29.543261231316464,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.61,
+      "selected_by_percent": 0.5
+    },
+    "Zouma": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.1
+    },
+    "Irving": {
+      "predicted_points": 10.377550559573704,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "Summerville": {
+      "predicted_points": 38.52910747528077,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.3
+    },
+    "G.Rodr\u00edguez": {
+      "predicted_points": 33.680738321940105,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "F\u00fcllkrug": {
+      "predicted_points": 26.265064387851293,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 4,
+      "price": 0.67,
+      "selected_by_percent": 0.8
+    },
+    "Todibo": {
+      "predicted_points": 45.271634928385424,
+      "sentiment_score": 1.0,
+      "form": 2.8,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.3
+    },
+    "Casey": {
+      "predicted_points": 1.2061493515968325,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.2
+    },
+    "C.Soler": {
+      "predicted_points": 47.33114382425944,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Scarles": {
+      "predicted_points": 28.43067902459039,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.2
+    },
+    "Mayers": {
+      "predicted_points": 0.05943743437528611,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Orford": {
+      "predicted_points": 2.7059354782104497,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "West Ham",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Potter": {
+      "predicted_points": 53.92647043863933,
+      "sentiment_score": 1.0,
+      "form": 6.6,
+      "team": "West Ham",
+      "position": 5,
+      "price": 0.05,
+      "selected_by_percent": 3.7
+    },
+    "Johnstone": {
+      "predicted_points": 14.75107485453288,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 1,
+      "price": 0.42000000000000004,
+      "selected_by_percent": 0.3
+    },
+    "A\u00eft-Nouri": {
+      "predicted_points": 97.16340993245443,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.48,
+      "selected_by_percent": 9.6
+    },
+    "B.Traore": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Bellegarde": {
+      "predicted_points": 90.11723861694337,
+      "sentiment_score": 1.0,
+      "form": 5.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.3
+    },
+    "Bentley": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 1,
+      "price": 0.39,
+      "selected_by_percent": 1.6
+    },
+    "Chiquinho": {
+      "predicted_points": 1.3198710958162945,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.1
+    },
+    "Chirewa": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Chiwome": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 1.3
+    },
+    "Cundle": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Cunha": {
+      "predicted_points": 177.03521779378255,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.6900000000000001,
+      "selected_by_percent": 7.5
+    },
+    "Dawson": {
+      "predicted_points": 20.99126803080241,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Doherty": {
+      "predicted_points": 65.17000630696614,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.4
+    },
+    "Doyle": {
+      "predicted_points": 34.30677165985107,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.47000000000000003,
+      "selected_by_percent": 0.0
+    },
+    "F\u00e1bio Silva": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.5,
+      "selected_by_percent": 0.1
+    },
+    "Gonzalez": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.44000000000000006,
+      "selected_by_percent": 0.0
+    },
+    "Guedes": {
+      "predicted_points": 65.29719098409018,
+      "sentiment_score": 1.0,
+      "form": 0.6,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.53,
+      "selected_by_percent": 0.1
+    },
+    "H.Bueno": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Hee Chan": {
+      "predicted_points": 38.65924415588379,
+      "sentiment_score": 1.0,
+      "form": 0.2,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.61,
+      "selected_by_percent": 0.3
+    },
+    "Hodge": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.45,
+      "selected_by_percent": 0.2
+    },
+    "Hoever": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "J.Gomes": {
+      "predicted_points": 86.82905858357748,
+      "sentiment_score": 1.0,
+      "form": 2.6,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.49000000000000005,
+      "selected_by_percent": 0.3
+    },
+    "Jos\u00e9 S\u00e1": {
+      "predicted_points": 79.84101969401043,
+      "sentiment_score": 1.0,
+      "form": 3.4,
+      "team": "Wolves",
+      "position": 1,
+      "price": 0.43,
+      "selected_by_percent": 3.1
+    },
+    "Kalajd\u017ei\u0107": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.48,
+      "selected_by_percent": 0.0
+    },
+    "Mario Jr.": {
+      "predicted_points": 57.8107780456543,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.48,
+      "selected_by_percent": 0.1
+    },
+    "Mosquera": {
+      "predicted_points": 4.2286432186762495,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.38,
+      "selected_by_percent": 0.8
+    },
+    "N.Semedo": {
+      "predicted_points": 71.3850523630778,
+      "sentiment_score": 1.0,
+      "form": 3.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.7
+    },
+    "Pedro Lima": {
+      "predicted_points": 2.5108596722284955,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 1.3
+    },
+    "Podence": {
+      "predicted_points": 2.5271053234736125,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.55,
+      "selected_by_percent": 0.0
+    },
+    "R.Gomes": {
+      "predicted_points": 35.177360725402835,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.51,
+      "selected_by_percent": 0.1
+    },
+    "S.Bueno": {
+      "predicted_points": 48.42143147786459,
+      "sentiment_score": 1.0,
+      "form": 2.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.1
+    },
+    "Sarabia": {
+      "predicted_points": 33.26599610646566,
+      "sentiment_score": 1.0,
+      "form": 1.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.1
+    },
+    "Strand Larsen": {
+      "predicted_points": 123.83904215494792,
+      "sentiment_score": 1.0,
+      "form": 3.2,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.53,
+      "selected_by_percent": 2.7
+    },
+    "Toti": {
+      "predicted_points": 68.68378588358561,
+      "sentiment_score": 1.0,
+      "form": 2.4,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.43,
+      "selected_by_percent": 0.2
+    },
+    "Meupiyou": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.2
+    },
+    "Andr\u00e9": {
+      "predicted_points": 54.17957153320313,
+      "sentiment_score": 1.0,
+      "form": 2.2,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.0
+    },
+    "Forbs": {
+      "predicted_points": 9.049698718388877,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.54,
+      "selected_by_percent": 0.0
+    },
+    "Pond": {
+      "predicted_points": 1.531837765375773,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.39,
+      "selected_by_percent": 0.8
+    },
+    "Okoduwa": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.0
+    },
+    "Agbadou": {
+      "predicted_points": 16.410381348927817,
+      "sentiment_score": 1.0,
+      "form": 0.8,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.4,
+      "selected_by_percent": 0.1
+    },
+    "Pereira": {
+      "predicted_points": 62.808858744303386,
+      "sentiment_score": 1.0,
+      "form": 6.6,
+      "team": "Wolves",
+      "position": 5,
+      "price": 0.08,
+      "selected_by_percent": 5.8
+    },
+    "Djiga": {
+      "predicted_points": 2.5271053234736125,
+      "sentiment_score": 1.0,
+      "form": 0.4,
+      "team": "Wolves",
+      "position": 2,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    },
+    "Munetsi": {
+      "predicted_points": 24.185396893819174,
+      "sentiment_score": 1.0,
+      "form": 4.0,
+      "team": "Wolves",
+      "position": 3,
+      "price": 0.5,
+      "selected_by_percent": 0.2
+    },
+    "Man\u00e9": {
+      "predicted_points": 0.060528029501438145,
+      "sentiment_score": 1.0,
+      "form": 0.0,
+      "team": "Wolves",
+      "position": 4,
+      "price": 0.45,
+      "selected_by_percent": 0.0
+    }
+  },
+  "model_info": {
+    "timestamp": "2025-03-19T11:01:17.256700",
+    "includes_sentiment": true,
+    "total_players": 763
+  }
+}

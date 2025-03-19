@@ -1,4 +1,4 @@
-# FPL Machine Learning
+# FPLX2
 
 A machine learning project for Fantasy Premier League (FPL) analysis and optimization.
 

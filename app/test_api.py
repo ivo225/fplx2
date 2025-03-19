@@ -4,47 +4,73 @@ import sys
 from datetime import datetime, timedelta
 
 def test_youtube_api():
+    channels = {
+        'Let\'s Talk FPL': 'Let\'s Talk FPL',
+        'FPL Mate': 'FPL Mate',
+        'FPL Raptor': 'FPL Raptor',
+        'FPL D-Unit': 'FPL D-Unit',
+        'FPL BlackBox': 'FPL BlackBox',
+        'Fantasy Football Hub': 'Fantasy Football Hub',
+        'Above Average FPL': 'Above Average FPL',
+        'FPLHarry': 'FPLHarry',
+        'Planet FPL': 'Planet FPL',
+        'FPLtips': 'FPLtips',
+        'Fantasy Football Scout': 'Fantasy Football Scout'
+    }
+    
     print(f"Testing YouTube API key: {YOUTUBE_API_KEY[:5]}...")
     try:
         # Initialize the YouTube API client
         youtube = build('youtube', 'v3', developerKey=YOUTUBE_API_KEY)
         
-        # Test 1: Try to get info about a channel
-        print("\nTest 1: Checking channel info...")
-        request = youtube.channels().list(
-            part="snippet",
-            id="UCNAf1k0yIjyGu3k9BwAg3lg"
-        )
-        response = request.execute()
+        channel_ids = {}
         
-        if response.get('items'):
-            print("✓ Successfully retrieved channel information")
-            print(f"Channel title: {response['items'][0]['snippet']['title']}")
-        else:
-            print("✗ API request successful but no channel data returned")
-            return False
-
-        # Test 2: Try to search for videos
-        print("\nTest 2: Checking search functionality...")
-        published_after = (datetime.utcnow() - timedelta(days=3)).isoformat() + 'Z'
-        request = youtube.search().list(
-            part='snippet',
-            channelId="UCNAf1k0yIjyGu3k9BwAg3lg",
-            maxResults=1,
-            order='date',
-            publishedAfter=published_after,
-            type='video'
-        )
-        response = request.execute()
+        for channel_name, search_term in channels.items():
+            print(f"\nSearching for channel: {channel_name}")
+            
+            # Try to find channel
+            request = youtube.search().list(
+                part="snippet",
+                q=search_term,
+                type="channel",
+                maxResults=5
+            )
+            response = request.execute()
+            
+            if response.get('items'):
+                # Print all found channels to help verify
+                print(f"Found {len(response['items'])} potential matches:")
+                for idx, item in enumerate(response['items'], 1):
+                    channel = item['snippet']
+                    channel_id = item['id']['channelId']
+                    print(f"{idx}. Title: {channel['title']}")
+                    print(f"   Channel ID: {channel_id}")
+                    print(f"   Description: {channel['description'][:100]}...")
+                    
+                    # Get subscriber count
+                    channel_request = youtube.channels().list(
+                        part="statistics",
+                        id=channel_id
+                    )
+                    channel_response = channel_request.execute()
+                    if channel_response.get('items'):
+                        subs = int(channel_response['items'][0]['statistics']['subscriberCount'])
+                        print(f"   Subscribers: {subs:,}")
+                    print()
+                
+                # Store the first result's channel ID
+                channel_ids[channel_name] = response['items'][0]['id']['channelId']
+            else:
+                print("❌ No channels found")
+                
+        # Print final results in a format ready for the sentiment analyzer
+        print("\nChannel IDs for sentiment analyzer:")
+        print("self.channels = {")
+        for name, channel_id in channel_ids.items():
+            print(f"    '{name}': '{channel_id}',")
+        print("}")
         
-        if response.get('items'):
-            print("✓ Successfully retrieved search results")
-            video = response['items'][0]
-            print(f"Latest video: {video['snippet']['title']}")
-            return True
-        else:
-            print("✗ API request successful but no search results returned")
-            return False
+        return True
             
     except Exception as e:
         print(f"✗ Error testing API key: {str(e)}")
